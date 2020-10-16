@@ -1,0 +1,27 @@
+{
+  "name": "NLW3_Happy",
+  "version": "1.0.0",
+  "description": "Projeto criado na 3º edição do Next Level Week - RockerSeat",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffersonfantasia/NLW3_Happy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffersonfantasia/NLW3_Happy/issues"
+  },
+  "homepage": "https://github.com/jeffersonfantasia/NLW3_Happy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}

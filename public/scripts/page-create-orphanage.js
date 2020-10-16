@@ -8,7 +8,7 @@ L.tileLayer(
 
 //create icon layer
 const icon = L.icon({
-  iconUrl: "./public/images/map-marker.svg",
+  iconUrl: "/images/map-marker.svg",
   iconSize: [58, 68],
   iconAnchir: [29, 68],
 })
