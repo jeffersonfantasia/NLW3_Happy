@@ -19,7 +19,8 @@
   "homepage": "https://github.com/jeffersonfantasia/NLW3_Happy#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "hbs": "^4.1.1"
+    "hbs": "^4.1.1",
+    "sqlite-async": "^1.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.5"
